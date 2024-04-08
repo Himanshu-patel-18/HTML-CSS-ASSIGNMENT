@@ -189,6 +189,7 @@ main{
 
 @media screen and (max-width: 900px) {
     nav{
+        height: 8vh;
         padding: 0 5vw 0 3vw;
     }
     .nav-links,.social-icons{
